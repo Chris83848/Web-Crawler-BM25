@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/other-issues-in-english-1.html",
+  "access_time": "2026-01-29T14:16:49.333780+00:00",
+  "title": "",
+  "text": "Other possible normalizations are quite idiosyncratic and particular to\nEnglish.  For instance, you might wish to equatene'erandneveror the British spellingcolourand the American\nspellingcolor.  Dates, times and similar items come in multiple\nformats, presenting\nadditional challenges.  You might wish to collapse together3/12/91andMar. 12, 1991.  However, correct processing\nhere is complicated by the fact that in the U.S.,3/12/91isMar. 12, 1991, whereas in Europe it is3 Dec 1991.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

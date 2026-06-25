@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/cardinality---the-number-of-clusters-1.html",
+  "access_time": "2026-01-29T14:14:57.510270+00:00",
+  "title": "",
+  "text": "Since our goal is to optimize an objective function,\nclustering is essentially a search problem.  The brute force\nsolution would be to enumerate all possible clusterings and\npick the best.However, \nthere are exponentially many \npartitions, so this approach is not\nfeasible.For this reason, most flat\nclustering algorithms refine an initial partitioning\niteratively.  If the search starts at an unfavorable initial\npoint, we may miss the global optimum. Finding a good\nstarting point is therefore another important problem we\nhave to solve in flat clustering.Next:Evaluation of clusteringUp:Problem statementPrevious:A note on terminology.ContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\nNext:Evaluation of clusteringUp:Problem statementPrevious:A note on terminology.ContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/document-zones-in-text-classification-1.html",
+  "access_time": "2026-01-29T14:14:46.951206+00:00",
+  "title": "",
+  "text": "As already discussed in Section6.1, documents usually\nhavezones, such as mail\nmessage headers like the subject and author, or the title and keywords\nof a research article.  Text classifiers can usually gain from making\nuse of these zones during training and classification.SubsectionsUpweighting document zones.Separate feature spaces for document zones.Connections to text summarization.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\nSubsectionsUpweighting document zones.Separate feature spaces for document zones.Connections to text summarization.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

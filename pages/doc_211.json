@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/improving-classifier-performance-1.html",
+  "access_time": "2026-01-29T14:14:42.592283+00:00",
+  "title": "",
+  "text": "For any particular application, there is usually significant room for\nimproving classifier effectiveness through exploiting features\nspecific to the domain or\ndocument collection.  Often documents will containzones which are especially useful for classification.\nOften there will be particular subvocabularies which demand special\ntreatment for optimal classification effectiveness.SubsectionsLarge and difficult category taxonomiesFeatures for textDocument zones in text classificationUpweighting document zones.Separate feature spaces for document zones.Connections to text summarization.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\nSubsectionsLarge and difficult category taxonomiesFeatures for textDocument zones in text classificationUpweighting document zones.Separate feature spaces for document zones.Connections to text summarization.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

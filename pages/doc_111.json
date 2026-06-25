@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/tiered-indexes-1.html",
+  "access_time": "2026-01-29T14:12:17.110499+00:00",
+  "title": "",
+  "text": "Tiered indexes.If we fail to getresults from tier 1, query processing ``falls back'' to tier 2, and so on.  Within each tier, postings are ordered by document ID.Next:Query-term proximityUp:Components of an informationPrevious:Components of an informationContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n\nNext:Query-term proximityUp:Components of an informationPrevious:Components of an informationContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

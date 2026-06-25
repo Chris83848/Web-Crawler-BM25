@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/the-prp-with-retrieval-costs-1.html",
+  "access_time": "2026-01-29T14:13:21.347829+00:00",
+  "title": "",
+  "text": "Suppose, instead, that we assume a model\nof retrieval costs. Letbe the cost of not retrieving\na relevant document andthe cost of retrieval of a\nnonrelevant document. Then the Probability Ranking\nPrinciple says that\nif for a specific documentand\nfor all documentsnot yet retrieved(62)thenis the next document to be retrieved. Such a model gives a formal framework where we can model differential costs of false positives and false negatives and even system performance issues at the modeling stage, rather than simply at the evaluation stage, as we did in Section8.6(page).  However, we will not further consider loss/utility models in this chapter.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

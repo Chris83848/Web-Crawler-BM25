@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/the-vector-space-model-for-scoring-1.html",
+  "access_time": "2026-01-29T14:11:51.402405+00:00",
+  "title": "The vector space model for scoring",
+  "text": "In Section6.2(page) we developed the notion of adocument vectorthat captures the relative importance of the terms in a document.  The representation of a set of documents as vectors in a common vector space is known as thevector space modeland is fundamental to a host of information retrieval operations ranging from scoring documents on a query, document classification and document clustering. We first develop the basic ideas underlying vector space scoring; a pivotal step in this development is the view (Section6.3.2) of queries as vectors in the same vector space as the document collection.SubsectionsDot productsQueries as vectorsComputing vector scores© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\nSubsectionsDot productsQueries as vectorsComputing vector scores© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

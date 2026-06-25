@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/vocabulary-tools-for-query-reformulation-1.html",
+  "access_time": "2026-01-29T14:13:01.222182+00:00",
+  "title": "",
+  "text": "Various user supports in the search process can help the\nuser see how their searches are or are not working. This includes\ninformation about words that were omitted from the query\nbecause they were on stop lists, what words were stemmed to, the number\nof hits on each term or phrase, and whether words were dynamically\nturned into phrases. The IR system might also suggest\nsearch terms by means of a thesaurus or a controlled vocabulary. A\nuser can also be allowed to browse lists of the terms that are in the\ninverted index, and thus find good terms that appear in the collection.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

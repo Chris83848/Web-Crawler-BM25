@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/references-and-further-reading-19.html",
+  "access_time": "2026-01-29T14:15:45.831825+00:00",
+  "title": "References and further reading",
+  "text": "The estimation of web search index sizes has a long history of development covered byBharat and Broder (1998),Lawrence and Giles (1998),Rusmevichientong et al. (2001),Lawrence and Giles (1999),Henzinger et al. (2000),Bar-Yossef and Gurevich (2006).\nThe state of the art isBar-Yossef and Gurevich (2006), including several of the bias-removal techniques mentioned at the end of Section19.5. Shingling was introduced byBroder et al. (1997)and used for detecting websites (rather than simply pages) that are identical byBharat et al. (2000).© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

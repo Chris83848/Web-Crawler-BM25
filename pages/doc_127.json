@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/system-issues-1.html",
+  "access_time": "2026-01-29T14:12:39.921508+00:00",
+  "title": "",
+  "text": "There are many practical benchmarks on which to rate an information\nretrieval system beyond its retrieval quality.  These include:How fast does it index, that is, how many documents per hour does it\n  index for a certain distribution over document lengths?\n(cf. Chapter4)How fast does it search, that is, what is its latency as a\n  function of index size?How expressive is its query language?  How fast is it\n  on complex queries?How large is its document collection, in terms of the number of\n  documents or the collection having information distributed across a\n  broad range of topics?All these criteria apart from query language expressiveness are\nstraightforwardlymeasurable: we can quantify the speed or size.\nVarious \nkinds of feature checklists can make query language expressiveness\nsemi-precise.© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

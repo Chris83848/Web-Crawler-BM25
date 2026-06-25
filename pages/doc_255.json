@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/overview-1.html",
+  "access_time": "2026-01-29T14:15:47.231270+00:00",
+  "title": "Overview",
+  "text": "The goal of this chapter is not to describe how to build the crawler for a full-scale commercial web search engine. We focus instead on a range of issues that are generic to crawling from the student project scale to substantial research projects. We begin (Section20.1.1) by listing desiderata for web crawlers, and then discuss in Section20.2how each of these issues is addressed.  The remainder of this chapter describes the architecture and some implementation details for a distributed web crawler that satisfies these features. Section20.3discusses distributing indexes across many machines for a web-scale implementation.SubsectionsFeatures a crawlermustprovideFeatures a crawlershouldprovideNext:Features a crawler mustUp:Web crawling and indexesPrevious:Web crawling and indexesContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

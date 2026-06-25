@@ -1,0 +1,6 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/frequency-based-feature-selection-1.html",
+  "access_time": "2026-01-29T14:14:08.926688+00:00",
+  "title": "",
+  "text": "Frequency-based feature selection\nselects some\nfrequent terms that have no specific information about the\nclass, for example, the days of the week (Monday,\nTuesday, ...), which are frequent across classes\nin newswire text. When many thousands of features are selected,\nthen frequency-based feature selection often does\nwell.\nThus, if somewhat suboptimal accuracy is acceptable, then\nfrequency-based feature selection can be a good alternative to\nmore complex methods. However, Figure13.8is a case where\nfrequency-based feature selection performs a lot worse than\nMI andand should not be\nused.Next:Feature selection for multipleUp:Feature selectionPrevious:Assessing as a featureContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\nNext:Feature selection for multipleUp:Feature selectionPrevious:Assessing as a featureContentsIndex© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at thePDF editionof the book.2009-04-07\n"
+}

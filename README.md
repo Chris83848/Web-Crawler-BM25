@@ -37,7 +37,7 @@ Both ranking models score documents against a query by summing per-term contribu
 
 ## Results
 
-Querying *"computer science department"* against both models on the same corpus produced different top results. BM25 favored documents with strong term concentration regardless of length, while TF-IDF's rankings skewed toward longer documents that simply contained the query terms more times in raw count. This matches the expected theoretical difference between the two models and was the central finding of the original report (full report in [`docs/Assignment_Report.pdf`](docs/Assignment_Report.pdf)).
+Querying *"computer science department"* against both models on the same corpus produced different top results. BM25 favored documents with strong term concentration regardless of length, while TF-IDF's rankings skewed toward longer documents that simply contained the query terms more times in raw count. This matches the expected theoretical difference between the two models and was the central finding of the original report (full report in [`docs/Report.pdf`](docs/Assignment_Report.pdf)).
 
 ## Corpus Statistics
 

@@ -1,0 +1,5 @@
+.idea/
+desktop.ini
+index.pkl
+__pycache__/
+*.pyc
